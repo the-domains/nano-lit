@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nano-Lit]]></title>
         <description><![CDATA[Nano-Lit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nano-lit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 19:50:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 19:51:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nano-lit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"All matter is spent light" - Louis Khan. </p>]]></description>
-            <link>undefinedall-matter-is-spent-light-louis-khan/index.html</link>
+            <link>https://thegrid.ai/nano-lit/all-matter-is-spent-light-louis-khan/index.html</link>
             <guid isPermaLink="false">cc9e5176-73b2-487c-a749-a55eba0622a2</guid>
-            <pubDate>Thu, 28 Apr 2016 19:49:59 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 19:50:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
