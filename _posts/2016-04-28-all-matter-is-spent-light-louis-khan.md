@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"All matter is spent light" - Louis Khan. '
-datePublished: '2016-04-28T19:49:59.280Z'
-dateModified: '2016-04-28T19:49:56.076Z'
+datePublished: '2016-04-28T19:50:51.501Z'
+dateModified: '2016-04-28T19:50:06.668Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-all-matter-is-spent-light-louis-khan.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-all-matter-is-spent-light-louis-khan.md
-published: true
 url: all-matter-is-spent-light-louis-khan/index.html
 _type: Article
 
