@@ -1,19 +1,4 @@
-name: Nano-Lit
-favicon: null
-layout_spectrum: 0.305663873674348
 typography_spectrum: 0.07546309637837112
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8431195570155978
   saturation: 0.4041403771843761
   rhythmicContrast: 0.678335840580985
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.305663873674348
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Nano-Lit
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: s
 purpose: []
